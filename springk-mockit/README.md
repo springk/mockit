@@ -1,2 +1,14 @@
 mockit
 单元测试测试用例解析
+
+其中涉及verify、spy、异常、thenreturn、answer等方法的实际使用案例，以及如何对静态方法进行mock
+MockitDefineObjectIfNullTest
+MockitInjectMockTest
+MockitRestTest
+MockitReturnAnswerTest
+MockitSpyTest
+MockitThorwExceptionTest
+MockitVerifyNoMoreInteractionsTest
+MockitVerifyTest
+MockitVerifyZeroInteractionsTest
+PowermockTest
