@@ -66,7 +66,6 @@ public class MockitSpyTest {
         verify(spy).add(1);
         verify(spy).add(2);
         assertEquals(999,spy.get(999));
-        spy.get(2);
     }
 
 
